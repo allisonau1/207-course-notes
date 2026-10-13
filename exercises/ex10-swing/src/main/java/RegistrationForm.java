@@ -1,10 +1,11 @@
-import java.awt.FlowLayout;
+import javax.swing.BoxLayout;
 import javax.swing.JButton;
 import javax.swing.JFrame;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.JTextField;
 import javax.swing.SwingUtilities;
+
 
 /**
  * Exercise (Chapter 4: GUIs with Swing) — matching a layout.
